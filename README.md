@@ -1,2 +1,3 @@
-# Pierson7513.github.io
+# Pierson7513
 Mijn eigen website
+<!DOCTYPE html>
