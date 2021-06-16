@@ -1,3 +1,3 @@
 # Pierson7513
-Mijn eigen website
 <!DOCTYPE html>
+Hoi, ik ben Lotte. Leuk dat je op mijn website bent. Dit is een website met leuke dierenweetjes.
