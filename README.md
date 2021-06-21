@@ -1,6 +1,4 @@
 # Pierson7513 Index.html
-<style>
-</style>
 <header>
   <h1>Dierenweetjes door Lotte</h1>
 </header>
