@@ -1,4 +1,4 @@
-# Pierson7513 Index.html
+# Index.html
 <header>
   <h1>Dierenweetjes door Lotte</h1>
 </header>
