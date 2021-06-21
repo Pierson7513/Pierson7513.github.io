@@ -1,8 +1,5 @@
 # Pierson7513 Index.html
 <style>
-  header {
-  text-color: pink;
-  }
 </style>
 <header>
   <h1>Dierenweetjes door Lotte</h1>
